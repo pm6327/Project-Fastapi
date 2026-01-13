@@ -1,1 +1,1 @@
-# FastAPI Capstone Project
+# FastAPI CAPSTONE PROJECT
